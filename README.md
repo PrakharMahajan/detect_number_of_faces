@@ -5,4 +5,4 @@ This program uses machine learning and OpenCV to detect faces, and count them on
 $ pip install opencv-python
 $ pip install numpy
 
-<THIS PROJECT HAS BEEN CREATED BY COMBINING DIFFERENT CODES FROM DIFFERENT WEBSITES>
+# THIS PROJECT HAS BEEN CREATED BY COMBINING DIFFERENT CODES FROM DIFFERENT WEBSITES
